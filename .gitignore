@@ -50,3 +50,12 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# AC6 IDE
+RemoteSystemsTempFiles/
+STM32F407G-DISC1.xml
+LinkerScript.ld
+.cproject
+.project
+.settings/
+.metadata/
