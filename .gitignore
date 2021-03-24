@@ -60,3 +60,4 @@ LinkerScript.ld
 .settings/
 .metadata/
 Debug/
+Debug/*.*
